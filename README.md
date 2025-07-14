@@ -23,5 +23,6 @@ Este script automatiza la instalación de un escritorio **MATE** optimizado para
 
 1. **Clona el repositorio**:
    ```bash
-   git clone https://github.com/tu_usuario/arch-mate-2025-installer.git
-   cd arch-mate-2025-installer
+   git clone https://github.com/R3D-GHOST/AutoDesktopArch/tree/main
+   cd AutoDesktopArch
+   bash archinstall.sh
